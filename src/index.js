@@ -7,9 +7,9 @@ import invariant from 'invariant';
 
 const mapStyles = {
   container: {
-    position: 'absolute',
-    // width: '100%', make FVK
-    // height: '100%' outbound
+    // position: 'absolute',
+    width: '100%',
+    height: '100%'
   },
   map: {
     position: 'absolute',
